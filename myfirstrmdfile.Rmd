@@ -1,5 +1,6 @@
 ---
 title: "My First Rmd File"
+author: Alper Koray YILDIZ
 output: html_document
 date: "2023-03-09"
 ---
